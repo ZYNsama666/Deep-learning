@@ -1,2 +1,8 @@
 # Deep-learning
-Here I record some procedures in the process of deep learning, from the most basic linear regression to neural network. There are many of my experiences in the notes, I hope to help you
+---
+
+这里记录了我在深度学习的过程中的一些程序：
+
+从最基础的**线性回归**到**神经网络**到**CNN**
+
+注释中有我的许多心得，希望能帮到大家
